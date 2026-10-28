@@ -9,7 +9,7 @@
 
 Projeto prático desenvolvido no 2º semestre de 2026 no curso de **Análise e Desenvolvimento de Sistemas (UDF)**.
 
-![Tela inicial do ROYALPET](docs/tela-inicial.png)
+![Tela inicial do ROYALPET](tela-inicial.png)
 
 ---
 
@@ -67,19 +67,20 @@ Sem Git: clique em **Code → Download ZIP**, extraia e abra o `index.html`.
 
 | Seção "Sobre" | Galeria de fotos |
 | --- | --- |
-| ![Seção Sobre](docs/about.png) | ![Galeria de fotos](docs/gallery.png) |
+| ![Seção Sobre](about.png) | ![Galeria de fotos](gallery.png) |
 
 ---
 
-## 📁 Estrutura de pastas
+## 📁 Estrutura de arquivos
 
 ```
 royalpet-site-html-css/
-├── index.html       # página principal
-├── css/
-│   └── style.css    # estilos do site
-├── img/             # fotos da galeria e do banner
-├── docs/            # prints usados neste README
+├── index.html            # página principal
+├── style.css             # estilos do site
+├── 1.jpg ... 7.jpg       # fotos da galeria e do banner
+├── tela-inicial.png      # prints usados neste README
+├── about.png
+├── gallery.png
 ├── .gitignore
 ├── LICENSE
 └── README.md
