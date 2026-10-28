@@ -7,7 +7,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Licença](https://img.shields.io/badge/licença-MIT-blue?style=flat-square)
 
-Projeto prático desenvolvido no 2º semestre de 2026 no curso de **Análise e Desenvolvimento de Sistemas (UDF)**.
+Projeto prático desenvolvido no 1º semestre de 2026 no curso de **Análise e Desenvolvimento de Sistemas (UDF)**.
 
 ![Tela inicial do ROYALPET](tela-inicial.png)
 
